@@ -9,3 +9,12 @@ let isLoggedIN = false // boolean
 //undefined : anything not defined
 //symbol 
 //object
+
+
+//************ CONVERSION +++++++ */
+
+let score = "33abc";
+console.log(typeof score); //string
+
+let valueINNumber = Number(score);
+console.log(typeof valueINNumber); // number
