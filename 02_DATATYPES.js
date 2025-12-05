@@ -17,7 +17,7 @@ let score = "33abc";
 console.log(typeof score); //string
 
 let valueINNumber = Number(score);
-console.log(typeof valueINNumber); // number
+console.log(typeof valueINNumber); //  number
 
 // ======== Operations ======
 
